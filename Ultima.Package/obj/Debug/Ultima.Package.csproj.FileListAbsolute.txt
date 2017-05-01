@@ -1,0 +1,17 @@
+C:\Users\Felipe\Desktop\Ultima.Spy\Ultima.Package\bin\Debug\zlibwapi.dll
+C:\Users\Felipe\Desktop\Ultima.Spy\Ultima.Package\bin\Debug\Ultima.Package.dll
+C:\Users\Felipe\Desktop\Ultima.Spy\Ultima.Package\bin\Debug\Ultima.Package.pdb
+C:\Users\Felipe\Desktop\Ultima.Spy\Ultima.Package\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\Ultima.Spy\Ultima.Package\obj\Debug\Ultima.Package.dll
+C:\Users\Felipe\Desktop\Ultima.Spy\Ultima.Package\obj\Debug\Ultima.Package.pdb
+D:\UO\Ultima.Spy\Ultima.Package\bin\Debug\zlibwapi.dll
+D:\UO\Ultima.Spy\Ultima.Package\bin\Debug\Ultima.Package.dll
+D:\UO\Ultima.Spy\Ultima.Package\bin\Debug\Ultima.Package.pdb
+D:\UO\Ultima.Spy\Ultima.Package\obj\Debug\Ultima.Package.dll
+D:\UO\Ultima.Spy\Ultima.Package\obj\Debug\Ultima.Package.pdb
+C:\UOC\Ultima.Spy\Ultima.Package\bin\Debug\zlibwapi.dll
+C:\UOC\Ultima.Spy\Ultima.Package\bin\Debug\Ultima.Package.dll
+C:\UOC\Ultima.Spy\Ultima.Package\bin\Debug\Ultima.Package.pdb
+C:\UOC\Ultima.Spy\Ultima.Package\obj\Debug\Ultima.Package.csprojResolveAssemblyReference.cache
+C:\UOC\Ultima.Spy\Ultima.Package\obj\Debug\Ultima.Package.dll
+C:\UOC\Ultima.Spy\Ultima.Package\obj\Debug\Ultima.Package.pdb
