@@ -183,6 +183,22 @@ namespace Ultima.Spy
 			string str = Encoding.ASCII.GetString( data );
 			return str.Substring( 0, str.IndexOf( '\0' ) );
 		}
-		#endregion
-	}
+        #endregion
+
+        /// <summary>
+        /// Writes a number of 0x00 byte values to the underlying stream.
+        /// </summary>
+        public void Fill(int length)
+        {
+            if (_Input.Position == _Input.Length)
+            {
+                _Input.SetLength(_Input.Length + length);
+                _Input.Seek(0, SeekOrigin.End);
+            }
+            else
+            {
+                _Input.Write(new byte[length], 0, length);
+            }
+        }
+    }
 }

@@ -47,6 +47,7 @@
     <Compile Include="EnhancedClientSpy.cs" />
     <Compile Include="Helpers\BigEndianReader.cs" />
     <Compile Include="Packets\CompressedGump.cs" />
+    <Compile Include="Packets\CharacterList.cs" />
     <Compile Include="Packets\DeathAnimation.cs" />
     <Compile Include="Packets\GenericGump.cs" />
     <Compile Include="Helpers\AddressAndRegisters.cs" />
