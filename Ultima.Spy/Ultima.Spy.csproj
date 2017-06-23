@@ -63,6 +63,7 @@
     <Compile Include="Packets\GraphicalEffect.cs" />
     <Compile Include="Packets\GumpResponse.cs" />
     <Compile Include="Packets\MobileAnimation.cs" />
+    <Compile Include="Packets\HuedEffect.cs" />
     <Compile Include="Packets\NewCreateCharacter.cs" />
     <Compile Include="Packets\NewClientVersion.cs" />
     <Compile Include="Packets\MobileName.cs" />
