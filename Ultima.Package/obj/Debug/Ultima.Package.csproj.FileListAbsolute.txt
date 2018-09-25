@@ -15,3 +15,10 @@ C:\UOC\Ultima.Spy\Ultima.Package\bin\Debug\Ultima.Package.pdb
 C:\UOC\Ultima.Spy\Ultima.Package\obj\Debug\Ultima.Package.csprojResolveAssemblyReference.cache
 C:\UOC\Ultima.Spy\Ultima.Package\obj\Debug\Ultima.Package.dll
 C:\UOC\Ultima.Spy\Ultima.Package\obj\Debug\Ultima.Package.pdb
+C:\SpyUO\Ultima.Package\bin\Debug\zlibwapi.dll
+C:\SpyUO\Ultima.Package\bin\Debug\Ultima.Package.dll
+C:\SpyUO\Ultima.Package\bin\Debug\Ultima.Package.pdb
+C:\SpyUO\Ultima.Package\obj\Debug\Ultima.Package.csproj.CoreCompileInputs.cache
+C:\SpyUO\Ultima.Package\obj\Debug\Ultima.Package.dll
+C:\SpyUO\Ultima.Package\obj\Debug\Ultima.Package.pdb
+C:\SpyUO\Ultima.Package\obj\Debug\Ultima.Package.csprojAssemblyReference.cache

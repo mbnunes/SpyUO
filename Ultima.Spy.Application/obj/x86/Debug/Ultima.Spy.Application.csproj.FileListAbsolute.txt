@@ -214,7 +214,6 @@ C:\SpyUO\Ultima.Spy.Application\bin\Debug\Ultima.Analyzer.dll
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\Ultima.Package.pdb
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\Ultima.Spy.pdb
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\Ultima.Analyzer.pdb
-C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\Ultima.Spy.Application.csprojResolveAssemblyReference.cache
 C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\AboutWindow.baml
 C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\ClilocWindow.baml
 C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\Controls\Native\Slider.baml
@@ -275,3 +274,6 @@ C:\SpyUO\Ultima.Spy.Application\bin\Debug\Data\ItemPropertyDefinitions.xml
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\Data\ItemDefinitions.xml
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\SpyUO.exe
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\SpyUO.pdb
+C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\Ultima.Spy.Application.csproj.CoreCompileInputs.cache
+C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\Ultima.Spy.Application.csproj.CopyComplete
+C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\Ultima.Spy.Application.csprojAssemblyReference.cache

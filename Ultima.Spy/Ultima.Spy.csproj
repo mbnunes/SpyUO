@@ -48,6 +48,8 @@
     <Compile Include="Helpers\BigEndianReader.cs" />
     <Compile Include="Packets\CompressedGump.cs" />
     <Compile Include="Packets\CharacterList.cs" />
+    <Compile Include="Packets\PlayServerAccept .cs" />
+    <Compile Include="Packets\PlayServer.cs" />
     <Compile Include="Packets\DeathAnimation.cs" />
     <Compile Include="Packets\GenericGump.cs" />
     <Compile Include="Helpers\AddressAndRegisters.cs" />
@@ -63,7 +65,7 @@
     <Compile Include="Packets\GraphicalEffect.cs" />
     <Compile Include="Packets\GumpResponse.cs" />
     <Compile Include="Packets\MobileAnimation.cs" />
-    <Compile Include="Packets\HuedEffect.cs" />
+    <Compile Include="Packets\CreateCharacter3D.cs" />
     <Compile Include="Packets\NewCreateCharacter.cs" />
     <Compile Include="Packets\NewClientVersion.cs" />
     <Compile Include="Packets\MobileName.cs" />

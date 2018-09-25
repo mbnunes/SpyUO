@@ -27,6 +27,8 @@ C:\SpyUO\Ultima.Spy\bin\Debug\Ultima.Spy.dll
 C:\SpyUO\Ultima.Spy\bin\Debug\Ultima.Spy.pdb
 C:\SpyUO\Ultima.Spy\bin\Debug\Ultima.Analyzer.dll
 C:\SpyUO\Ultima.Spy\bin\Debug\Ultima.Analyzer.pdb
-C:\SpyUO\Ultima.Spy\obj\Debug\Ultima.Spy.csprojResolveAssemblyReference.cache
 C:\SpyUO\Ultima.Spy\obj\Debug\Ultima.Spy.dll
 C:\SpyUO\Ultima.Spy\obj\Debug\Ultima.Spy.pdb
+C:\SpyUO\Ultima.Spy\obj\Debug\Ultima.Spy.csproj.CoreCompileInputs.cache
+C:\SpyUO\Ultima.Spy\obj\Debug\Ultima.Spy.csproj.CopyComplete
+C:\SpyUO\Ultima.Spy\obj\Debug\Ultima.Spy.csprojAssemblyReference.cache
