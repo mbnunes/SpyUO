@@ -112,22 +112,6 @@ namespace Ultima.Spy.Packets
             get { return _SkinColor; }
         }
 
-        private uint _Unk3;
-
-        [UltimaPacketProperty("Unknown3")]
-        public uint Unk3
-        {
-            get { return _Unk3; }
-        }
-
-        private uint _Unk4;
-
-        [UltimaPacketProperty("Unknown4")]
-        public uint Unk4
-        {
-            get { return _Unk4; }
-        }
-
         private int _Skill1;
 
         [UltimaPacketProperty("Skill1")]
@@ -289,8 +273,8 @@ namespace Ultima.Spy.Packets
             reader.ReadByte();
             reader.ReadUInt32();
             reader.ReadByte();
-            _ShirtColor = reader.ReadUInt16();
-            _ShirtID = reader.ReadUInt16();
+            _ShirtColor = reader.ReadInt16();
+            _ShirtID = reader.ReadInt16();
             reader.ReadByte();
             _FaceColor = reader.ReadUInt16();
             _FaceID = reader.ReadUInt16();

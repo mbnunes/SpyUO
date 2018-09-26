@@ -6,7 +6,7 @@
 					type - child ID type (can be either 'byte' or 'word') - optional( default: 'byte' )
 					offset - child ID offset in bytes - optional( default: '0' ) -->
 	<table id="0x12" name="Text Command" offset="2" />
-	<table id="0x71" name="Bulleting Board" />
+	<table id="0x71" name="Bulleting Board" />  
 	<table id="0xBF" name="Extended Command" type="word" offset="2">
 		<table id="0x06" name="Party" />
 		<table id="0x14" name="Context Menu" type="word" />

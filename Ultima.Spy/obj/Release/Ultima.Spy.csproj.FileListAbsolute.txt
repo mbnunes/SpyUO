@@ -1,0 +1,10 @@
+C:\SpyUO\Ultima.Spy\bin\Release\Data\PacketTables.xml
+C:\SpyUO\Ultima.Spy\bin\Release\Ultima.Spy.dll
+C:\SpyUO\Ultima.Spy\bin\Release\Ultima.Spy.pdb
+C:\SpyUO\Ultima.Spy\bin\Release\Ultima.Analyzer.dll
+C:\SpyUO\Ultima.Spy\bin\Release\Ultima.Analyzer.pdb
+C:\SpyUO\Ultima.Spy\obj\Release\Ultima.Spy.csprojAssemblyReference.cache
+C:\SpyUO\Ultima.Spy\obj\Release\Ultima.Spy.csproj.CoreCompileInputs.cache
+C:\SpyUO\Ultima.Spy\obj\Release\Ultima.Spy.csproj.CopyComplete
+C:\SpyUO\Ultima.Spy\obj\Release\Ultima.Spy.dll
+C:\SpyUO\Ultima.Spy\obj\Release\Ultima.Spy.pdb

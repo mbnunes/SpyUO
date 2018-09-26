@@ -1,0 +1,5 @@
+C:\SpyUO\Ultima.Analyzer\bin\Release\Ultima.Analyzer.dll
+C:\SpyUO\Ultima.Analyzer\bin\Release\Ultima.Analyzer.pdb
+C:\SpyUO\Ultima.Analyzer\obj\Release\Ultima.Analyzer.csproj.CoreCompileInputs.cache
+C:\SpyUO\Ultima.Analyzer\obj\Release\Ultima.Analyzer.dll
+C:\SpyUO\Ultima.Analyzer\obj\Release\Ultima.Analyzer.pdb

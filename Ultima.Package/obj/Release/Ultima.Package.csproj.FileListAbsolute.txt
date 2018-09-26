@@ -1,0 +1,6 @@
+C:\SpyUO\Ultima.Package\bin\Release\zlibwapi.dll
+C:\SpyUO\Ultima.Package\bin\Release\Ultima.Package.dll
+C:\SpyUO\Ultima.Package\bin\Release\Ultima.Package.pdb
+C:\SpyUO\Ultima.Package\obj\Release\Ultima.Package.csproj.CoreCompileInputs.cache
+C:\SpyUO\Ultima.Package\obj\Release\Ultima.Package.dll
+C:\SpyUO\Ultima.Package\obj\Release\Ultima.Package.pdb
