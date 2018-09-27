@@ -210,6 +210,7 @@ C:\SpyUO\Ultima.Spy.Application\bin\Debug\zlibwapi.dll
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\Data\PacketTables.xml
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\Data\ItemPropertyDefinitions.xml
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\Data\ItemDefinitions.xml
+C:\SpyUO\Ultima.Spy.Application\bin\Debug\SpyUO.exe.config
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\SpyUO.exe
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\SpyUO.pdb
 C:\SpyUO\Ultima.Spy.Application\bin\Debug\Ultima.Package.dll
@@ -277,4 +278,3 @@ C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\Ultima.Spy.Application.csproj.Core
 C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\Ultima.Spy.Application.csproj.CopyComplete
 C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\SpyUO.exe
 C:\SpyUO\Ultima.Spy.Application\obj\x86\Debug\SpyUO.pdb
-C:\SpyUO\Ultima.Spy.Application\bin\Debug\SpyUO.exe.config

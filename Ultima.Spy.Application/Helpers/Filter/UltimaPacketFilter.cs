@@ -135,7 +135,7 @@ namespace Ultima.Spy.Application
 		/// </summary>
 		public void Initialize()
 		{
-			UltimaPacketTable table = UltimaPacket.PacketTable;
+            UltimaPacketTable table = UltimaPacket.PacketTable;
 
 			if ( table == null )
 				throw new SpyException( "Y U NO initialize packet definitions" );

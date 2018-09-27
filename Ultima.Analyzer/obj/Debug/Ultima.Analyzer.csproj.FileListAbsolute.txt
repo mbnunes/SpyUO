@@ -17,3 +17,4 @@ C:\SpyUO\Ultima.Analyzer\bin\Debug\Ultima.Analyzer.pdb
 C:\SpyUO\Ultima.Analyzer\obj\Debug\Ultima.Analyzer.csproj.CoreCompileInputs.cache
 C:\SpyUO\Ultima.Analyzer\obj\Debug\Ultima.Analyzer.dll
 C:\SpyUO\Ultima.Analyzer\obj\Debug\Ultima.Analyzer.pdb
+C:\SpyUO\Ultima.Analyzer\obj\Debug\Ultima.Analyzer.csprojAssemblyReference.cache

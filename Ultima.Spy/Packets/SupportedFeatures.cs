@@ -3,7 +3,8 @@ using System.IO;
 
 namespace Ultima.Spy.Packets
 {
-	[UltimaPacket("Supported Features", UltimaPacketDirection.FromServer, 0xB9 )]
+
+    [UltimaPacket("Supported Features", UltimaPacketDirection.FromServer, 0xB9 )]
 	public class SupportedFeatures : UltimaPacket
 	{
 		private uint _flags;
